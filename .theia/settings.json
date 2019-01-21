@@ -1,0 +1,10 @@
+{
+   "json.schemas": [
+       {
+           "url": "file://workspace/json-schema-example/example.schema.json",
+           "fileMatch": [
+               "example.json"
+           ]
+       }
+   ]
+}
